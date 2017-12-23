@@ -1,0 +1,9 @@
+﻿  源.c
+源.c(201): warning C4013: “_getch”未定义；假设外部返回 int
+源.c(256): warning C4102: “SAVE”: 未引用的标签
+  正在生成代码
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  curl.vcxproj -> C:\Users\LovelyWhite\source\repos\curl\x64\Release\curl.exe
